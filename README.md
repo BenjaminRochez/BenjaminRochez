@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@BenjaminRochez-%23181717?style=flat-square&logo=github)](https://github.com/BenjaminRochez)
 [![](https://img.shields.io/badge/-@BenjaminRochez-%23000000?style=flat-square&logo=codepen)](https://codepen.io/BenjaminRochez)
 [![](https://img.shields.io/badge/-@BenjaminRochez-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/BenjaminRochez)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=benjamin-rochez.com&url=https%3A%2F%2Fbenjamin-rochez.com)](https://benjamin-rochez.me)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=benjamin-rochez.com&url=https%3A%2F%2Fbenjamin-rochez.com)](https://benjamin-rochez.com)
 
 
 ❤️ Front-end Development!
