@@ -9,7 +9,7 @@
 
 ❤️ Front-end Development!
 
-:computer: **Senior front-end developer**, currently based in Belgium, at [oncodna.com](https://oncodna.com).
+:computer: **Senior front-end developer**, currently based in Belgium, at [oncodna.com](https://elium.com).
 
 :vulcan_salute: I put mostly of my focus on web development with **Javascript**, and I'm secretly a **Three.js** nerd.
 
